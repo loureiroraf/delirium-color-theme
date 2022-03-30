@@ -2,7 +2,7 @@
     "name": "delirium-color-theme",
     "displayName": "Delirium Dark Theme",
     "description": "A blue dark color theme inspired in delirium beer.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "LoureiroRaf",
     "engines": {
         "vscode": "^1.65.0"
@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Delirium Color theme",
+                "label": "Delirium Dark Blue Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Delirium Color theme-color-theme.json"
+                "path": "./themes/Delirium Dark Blue Theme.json"
+            },
+            {
+                "label": "Delirium Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Delirium Dark Theme.json"
             }
         ]
     },
