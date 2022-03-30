@@ -1,0 +1,21 @@
+{
+    "name": "delirium-color-theme",
+    "displayName": "delirium-color-theme",
+    "description": "delirium color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Delirium Color theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Delirium Color theme-color-theme.json"
+            }
+        ]
+    }
+}
