@@ -8,14 +8,15 @@ Here are some example images:
 
 JAVASCRIPT
 
-![javascript sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/JS.jpg?raw=true)
+![javascript sample](./img/javascript-sample.jpg)
+
 
 HTML
 
-![html sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/HTML.jpg?raw=true)
+![html sample](./img/html-sample.jpg)
 
 CSS
 
-![css sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/CSS.jpg?raw=true)
+![css sample](./img/css-sample.jpg)
 
 
