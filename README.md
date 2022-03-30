@@ -8,14 +8,14 @@ Here are some example images:
 
 JAVASCRIPT
 
-![alt text](https://www.flickr.com/photos/rafaelsavio/51972116525/in/dateposted-public/)
+![javascript sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/JS.jpg?raw=true)
 
 HTML
 
-![alt text](https://www.flickr.com/photos/rafaelsavio/51971841579/in/dateposted-public/)
+![html sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/HTML.jpg?raw=true)
 
 CSS
 
-![alt text](https://www.flickr.com/photos/rafaelsavio/51971841604/in/dateposted-public/)
+![css sample](https://github.com/loureiroraf/delirium-color-theme/blob/main/img/CSS.jpg?raw=true)
 
 
