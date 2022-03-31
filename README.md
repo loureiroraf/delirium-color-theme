@@ -1,22 +1,25 @@
-Welcome to Delirium Dark Theme!
+## Welcome to Delirium Dark Theme!
+
+###### A beautiful dark theme with two variants for Visual Studio Code. Both of them are focused on long-term work without causing any discomfort to the eyes
 
 This is a theme inspired by several existing themes, adding a touch of its own personality.
 
-For now there is only one color variation, but other variations are already on the way.
-
 Here are some example images:
 
-JAVASCRIPT
+Delirium Dark Blue Theme:
 
+javascript
 ![javascript sample](./img/javascript-sample.jpg)
 
-
-HTML
-
+html
 ![html sample](./img/html-sample.jpg)
 
-CSS
+Delirium Dark Theme:
 
-![css sample](./img/css-sample.jpg)
+javascript
+![javascript sample](./img/javascript-dark-sample.jpg)
 
+html
+![html sample](./img/html-dark-sample.jpg)
 
+###### ENJOY!
